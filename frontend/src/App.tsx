@@ -35,7 +35,7 @@ export default function App() {
           <Route path="/debugger" element={<AIDebuggerPage />} />
           <Route path="/git-analyzer" element={<GitAnalyzerPage />} />
           <Route path="/github-repository" element={<GitHubRepositoryPage />} />
-          <Route path="/docker-analyzer" element={<DockerAnalyzerPage />} />
+          <Route path="/docker" element={<DockerAnalyzerPage />} />
           <Route path="/kubernetes" element={<KubernetesPage />} />
           <Route path="/cicd" element={<CICDPage />} />
           <Route path="/knowledge-base" element={<KnowledgeBasePage />} />

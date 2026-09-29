@@ -25,7 +25,7 @@ const navItems = [
   { to: '/debugger', label: 'AI Debugger', icon: Bug },
   { to: '/git-analyzer', label: 'Git Analyzer', icon: GitBranch },
   { to: '/github-repository', label: 'GitHub Repository', icon: GitFork },
-  { to: '/docker-analyzer', label: 'Docker Analyzer', icon: Container },
+  { to: '/docker', label: 'Docker Studio', icon: Container },
   { to: '/kubernetes', label: 'Kubernetes Monitor', icon: Boxes },
   { to: '/cicd', label: 'CI/CD Logs', icon: Workflow },
   { to: '/knowledge-base', label: 'Knowledge Base', icon: BookOpen },
